@@ -1,0 +1,19 @@
+//hello.c
+//compile gcc hello.c -o hello.o
+//run ./hello.o
+
+#include <stdio.h>
+
+int main(){
+		printf("Hello, World!\n");
+		printf("**************************************************\n");
+		printf("*  MMMM     MMMM          A         OOOOOOOOOOO  *\n");
+		printf("* MMMMMM   MMMMMM        AAA       OOOO     OOOO *\n");
+		printf("* MM   MMMMM   MM       AA AA      OO         OO *\n");
+		printf("* MM    MMM    MM      AA   AA     OO         OO *\n");
+		printf("* MM           MM     AAAAAAAAA    OO         OO *\n");
+		printf("* MM           MM    AA       AA   OOOO     OOOO *\n");
+		printf("* MM           MM   AA         AA   OOOOOOOOOOO  *\n");
+		printf("**************************************************\n");
+		return 0;
+}
